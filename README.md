@@ -1,7 +1,9 @@
 # PokerHands
-# Written by Kevin Kastner
+Developed by Kevin Kastner
 A small Native GUI application that determines the winner of two poker players.
+
 ##############################################
+
 PokerHands is a small program which determines the winner of a poker game between two players based on the cards that they possess.
 
 Each of the player's names can be entered in their associated text boxes, if desired.
@@ -10,6 +12,7 @@ Each card for each player can be entered using the drop-down boxes. The left one
 while the right one sets the card's suit (H, S, D, C).
 
 In addition, both a Randomize command and button have been added which will randomly pick cards from the deck for both players.
+
 ##############################################
 
 Written in Java 8 using the Netbeans IDE version 8.2.
