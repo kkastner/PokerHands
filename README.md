@@ -1,5 +1,6 @@
 # PokerHands
-Developed by Kevin Kastner
+Developed by Kevin Kastner.
+
 A small Native GUI application that determines the winner of two poker players.
 
 ##############################################
